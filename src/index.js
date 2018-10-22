@@ -15,7 +15,6 @@ characterElement.style.top = '0px'
 characterElement.style.width = "50px"
 characterElement.className = 'created with JavaScript' // Don't worry to much about this line for now
 
-// Uncomment the line below.
 document.body.appendChild(characterElement)
 // What is "document.body"? What does "appendChild" do here?
 // Look at the index.html file, and describe what is happening on line 3
